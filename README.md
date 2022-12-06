@@ -1,2 +1,3 @@
 # game
-a simple interactive game made functional by JavaScript
+a simple interactive game made functional by JavaScript!
+
